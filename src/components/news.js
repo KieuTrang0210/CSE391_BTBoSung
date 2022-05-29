@@ -1,8 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./news.css"
 function News() {
     return (
-        <div class="container">
+        <div class="container news">
             <div class="text-start ms-5 my-3">
                 <span>
                     <Link to="/" class="text-decoration-none text-dark">Trang chủ</Link>

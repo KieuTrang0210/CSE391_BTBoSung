@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Header() {
     return (
-        <div class="container-fluid px-0">
+        <div class="container-fluid px-0 bg-white fixed-top">
             <div class="row my-1">
                 <div class="col-md-1"></div>
                 <div class="col-md-2">

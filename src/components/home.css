@@ -1,0 +1,57 @@
+.top-content-home {
+    margin-top: 165px;
+}
+
+.tinmoinhat, .video {
+    margin: 0 10%;
+}
+.sukienmoinhat {
+    background: linear-gradient(0,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/sukienmoinhat.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.sukienmoinhat .card {
+    position: relative;
+}
+
+.sukienmoinhat .card .date {
+    position: absolute;
+    top: 110px;
+    left: 25px;
+}
+
+.hoptac {
+    background: linear-gradient(0,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../images/bander.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.soict img{
+    height: 150px;
+}
+
+.trichdan {
+    height: 140px;
+}
+
+.kiminsoo {
+    margin-left: 32%;
+}
+
+.chuyentrang {
+    margin-left: 45%;
+}
+.chuyentrang li{
+    font-size: 5px;
+}
+
+.chuyentrang input {
+    background-color: gray;
+    border: 0;
+    margin: 5px 5px;
+}
+
+.vechungtoi {
+    background-color:antiquewhite;
+}
